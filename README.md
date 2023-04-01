@@ -3,9 +3,7 @@
 [Demo View](https://tanny-wayup.w3spaces.com/)
 
 ## About the project
-
-![demo](https://user-images.githubusercontent.com/74369814/229310677-0847bf88-5b57-485a-9773-e09accd03b17.png)
-
+![demo](https://user-images.githubusercontent.com/74369814/229310749-0b2a586d-09c6-4a6c-9127-3b4c7283fec2.png)
 
 ## Tech Stack Used
 - HTML
