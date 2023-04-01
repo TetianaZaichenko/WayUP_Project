@@ -1,5 +1,5 @@
 <h1 align="center">WayUP Project Page</h1>
-<p align="center">[Demo View](https://tanny-wayup.w3spaces.com/)</p>
+<p align="center"><a href="https://tanny-wayup.w3spaces.com/">View Demo</a></p>
 
 
 ## About the project
